@@ -1,5 +1,6 @@
 package cn.neyzoter.designpattern.adapter;
 
+
 /**
  * 猫
  * @author Charles Song
